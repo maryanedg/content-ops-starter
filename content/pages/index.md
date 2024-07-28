@@ -9,10 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      رقم شيخة روحانية لجلب الحبيب
+      **رقم شيخة روحانية لجلب الحبيب
       فك سحر التفريق و رد الزوج
       اعمال الطاعة والخضوع العام
-      اعمال لرد الحبيب مجرب
+      اعمال لرد الحبيب مجرب**
+
+      ****![](/images/dfdfsfsddfs.gif)
     actions:
       - label: Get started
         altText: ''
