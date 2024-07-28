@@ -47,6 +47,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    badge:
+      type: Badge
+      label: 'الشيخة '
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
