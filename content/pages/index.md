@@ -8,10 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      \<div style="text-align: center">###### **اعمال مخصصة لجلب الحبيب النافر
-      وعمل مخصص لتنزيل الاموال واستخراج الذهب والدفائن**\</div>
-
+    text: >
+      **اعمال مخصصة لجلب الحبيب النافر وعمل مخصص لتنزيل الاموال واستخراج الذهب
+      والدفائن**
     actions:
       - label: Get started
         altText: ''
