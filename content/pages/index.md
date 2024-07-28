@@ -49,7 +49,7 @@ sections:
           - pr-16
     badge:
       type: Badge
-      label: 'الشيخة '
+      label: الشيخة الروحانيه فاطمة ام يعقوب
       color: text-primary
       styles:
         self:
