@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        اعمال مخصصة لجلب الحبيب النافر وعمل مخصص لتنزيل الاموال واستخراج الذهب
+        والدفائن
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
