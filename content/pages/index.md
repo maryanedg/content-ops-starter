@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       اعمال مخصصة لجلب الحبيب النافر وعمل مخصص لتنزيل الاموال واستخراج الذهب
       والدفائن
