@@ -46,14 +46,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    badge:
-      type: Badge
-      label: الشيخة الروحانيه فاطمة ام يعقوب
-      color: text-primary
-      styles:
-        self:
-          fontWeight: 700
-          textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
