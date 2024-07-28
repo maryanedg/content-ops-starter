@@ -51,6 +51,9 @@ sections:
       type: Badge
       label: 'الشيخة '
       color: text-primary
+      styles:
+        self:
+          fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
