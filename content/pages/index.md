@@ -14,7 +14,13 @@ sections:
       اعمال الطاعة والخضوع العام
       اعمال لرد الحبيب مجرب**
 
-      ****![](/images/dfdfsfsddfs.gif)
+
+
+      |   |   |
+      | - | - |
+      |   |   |
+
+      ![](/images/dfdfsfsddfs.gif)
     actions:
       - label: Get started
         altText: ''
