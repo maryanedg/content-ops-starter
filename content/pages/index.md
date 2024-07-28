@@ -16,7 +16,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/WhatsApp Image 2023-12-08 at 12.04.19 AM.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
