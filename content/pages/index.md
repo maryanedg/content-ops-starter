@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/WhatsApp Image 2023-12-02 at 9.03.10 PM (2).jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
