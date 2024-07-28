@@ -8,9 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      **اعمال مخصصة لجلب الحبيب النافر وعمل مخصص لتنزيل الاموال واستخراج الذهب
-      والدفائن**
+    text: |
+      **رقم شيخة روحانية لجلب الحبيب
+      فك سحر التفريق و رد الزوج
+      اعمال الطاعة والخضوع العام
+      اعمال لرد الحبيب مجرب**
+
+
+
+      |   |   |
+      | - | - |
+      |   |   |
+
+      ![](/images/dfdfsfsddfs.gif)
     actions:
       - label: Get started
         altText: ''
@@ -46,14 +56,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    badge:
-      type: Badge
-      label: الشيخة الروحانيه فاطمة ام يعقوب
-      color: text-primary
-      styles:
-        self:
-          fontWeight: 700
-          textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
